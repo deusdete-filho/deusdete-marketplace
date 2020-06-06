@@ -27,7 +27,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - **`Exibir valor total dos itens no carrinho`**: Em qualquer parte da aplicação você deve exibir o valor total de todos os itens que estão no seu carrinho.
 
-### 🎨 Layout da aplicação
+## 🎨 Layout da aplicação
 
 <h1 align="center">
     <img hei src="https://github.com/deusdete-filho/deusdete-marketplace/blob/master/iphone.png" height="500px" />
