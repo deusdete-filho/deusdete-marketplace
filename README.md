@@ -8,10 +8,10 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Node.js][nodejs]
-- [React][reactjs]
-- [React Native][rn]
-- [TypeScript][typescript]
+- Node.js
+- React][reactjs
+- React Native
+- TypeScript
 
 ## 💻 Sobre o projeto
 
@@ -30,7 +30,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### 🎨 Layout da aplicação
 
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/iphone.png" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/deusdete-filho/deusdete-marketplace/blob/master/iphone.png" />
 </h1>
 
 ## :memo: Licença
