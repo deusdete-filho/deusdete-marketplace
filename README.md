@@ -30,7 +30,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### 🎨 Layout da aplicação
 
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/deusdete-filho/deusdete-marketplace/blob/master/iphone.png" />
+    <img hei src="https://github.com/deusdete-filho/deusdete-marketplace/blob/master/iphone.png" height="500px" />
 </h1>
 
 ## :memo: Licença
