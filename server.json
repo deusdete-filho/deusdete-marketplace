@@ -1,0 +1,80 @@
+{
+  "products": [
+    {
+      "id": "123",
+      "title": "Monitor AOC LCD FHD 23.6",
+      "image_url": "https://images-americanas.b2w.io/produtos/01/00/img/134496/0/134496099_1GG.jpg",
+      "price": 699.99
+    },
+    {
+      "id": "12341",
+      "title": "Monitor LED 32 Dell Ultrasharp",
+      "image_url": "https://images-americanas.b2w.io/produtos/01/00/item/132300/6/132300689_1GG.jpg",
+      "price": 1499.85
+    },
+    {
+      "id": "1221345",
+      "title": "Monitor LED AOC 15,6",
+      "image_url": "https://images-americanas.b2w.io/produtos/01/00/img/1656068/3/1656068358_1GG.jpg",
+      "price": 499.99
+    },
+    {
+      "id": "1234356",
+      "title": "Monitor Gamer Acer Predator",
+      "image_url": "https://images-americanas.b2w.io/produtos/01/00/img/23189/7/23189762_1GG.jpg",
+      "price": 2999.9
+    },
+    {
+      "id": "1234256",
+      "title": "Monitor Gamer LED 34",
+      "image_url": "https://images-americanas.b2w.io/produtos/01/00/img7/01/00/item/128365/7/128365771_1GG.jpg",
+      "price": 1999.9
+    },
+
+    {
+      "id": "123456",
+      "title": "Mouse Gamer G300s 2.500 DP",
+      "image_url": "https://images-americanas.b2w.io/produtos/01/00/offers/01/00/item/124420/3/124420331_1GG.jpg",
+      "price": 99.9
+    },
+
+    {
+      "id": "1234156",
+      "title": "SSD Kingston A400 240GB",
+      "image_url": "https://images-americanas.b2w.io/produtos/01/00/offers/01/00/item/133764/4/133764418_1GG.jpg",
+      "price": 299.9
+    },
+
+    {
+      "id": "123456",
+      "title": "Cadeira Gamer MX0 Giratoria",
+      "image_url": "https://images-americanas.b2w.io/produtos/01/00/img/1332853/5/1332853528_1GG.jpg",
+      "price": 689.9
+    },
+
+    {
+      "id": "12342356",
+      "title": "Monitor Gamer Acer Predator",
+      "image_url": "https://images-americanas.b2w.io/produtos/01/00/img/23189/7/23189762_1GG.jpg",
+      "price": 1799.9
+    },
+    {
+      "id": "123253456",
+      "title": "Monitor Gamer LED 25 IPS",
+      "image_url": "https://images-americanas.b2w.io/produtos/01/00/img7/01/00/item/128365/7/128365797_1GG.jpg",
+      "price": 939.9
+    },
+    {
+      "id": "1253456",
+      "title": "Monitor Led 24 Preto Curvo",
+      "image_url": "https://images-americanas.b2w.io/produtos/01/00/item/133321/7/133321705_1GG.jpg",
+      "price": 899.9
+    },
+    {
+      "id": "12341",
+      "title": "Monitor LED 32 Dell Ultrasharp",
+      "image_url": "https://images-americanas.b2w.io/produtos/01/00/item/132300/6/132300689_1GG.jpg",
+      "price": 1499.85
+    }
+  ]
+}
