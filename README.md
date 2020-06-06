@@ -9,7 +9,7 @@
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - Node.js
-- React][reactjs
+- React]
 - React Native
 - TypeScript
 
