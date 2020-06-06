@@ -1,6 +1,6 @@
-<h3 align="center">
+<h1 align="center">
   Deusdete MarketPlace
-</h3>
+</h1>
 
 <p align="center">“Desenvolvimento de um Carrinho de Compras com, React Native, junto com TypeScript, utilizando rotas, Async Storage e a Context API</blockquote>
 
